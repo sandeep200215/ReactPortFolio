@@ -6,7 +6,7 @@ function Contact()
 {
 return (
   <footer className="bg-gray-800  pb-24">
-       <h2 class="text-center text-white pb-4 text-xl  font-mono">Contact Me</h2>
+       <h2 class="text-center text-white pb-4 text-xl  font-mono font-semibold">Contact Me</h2>
       <div className="container mx-auto flex justify-center items-center ">
         <div className="flex space-x-6 text-3xl">
           <a href="https://www.linkedin.com/in/sandeepkr1506/" className="text-gray-300 hover:text-white">
