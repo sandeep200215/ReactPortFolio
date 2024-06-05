@@ -34,7 +34,7 @@ const Card = () => {
   }, []);
   return (
    
-    <section className="mx-auto  ">
+    <section className="mx-auto  bg-cover bg-center h-screen ">
       <div className=" max-w-2xl mx-auto  bg-slate-100 p-2 ">
      
         <div className="flex flex-col lg:flex-row  ">
@@ -43,7 +43,7 @@ const Card = () => {
             <img
               src={mypicture}
               alt="Profile"
-              className='w-full h-screen rounded-full mt-12 align-middle  p-2 '
+              className='w-full h-auto rounded-full mt-12 align-middle  p-2 '
             />
           </div>
           <div className="lg:w-fit  ml-8">
