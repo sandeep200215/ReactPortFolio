@@ -5,7 +5,7 @@ import mypicture from './assets/mypicture.jpg'
 function Contact()
 {
 return (
-    <footer className="bg-gray-800  align-baseline  sm:py-10">
+    <footer className="bg-gray-800  align-baseline  sm:py-12">
         <h2 className='text-white text-xl text-center font-bold'>Reach Out Me</h2>
         <h3></h3>
       <div className="container   mx-auto flex justify-evenly px-4 font-semibold">
