@@ -6,8 +6,10 @@ function Service()
 
         
           return (
+            <div className="bg-cover bg-center ">
         
               <Project/>
+              </div>
             
           );
     
