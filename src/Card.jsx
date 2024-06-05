@@ -61,7 +61,19 @@ const Card = () => {
             <h3 class='text-ellipsis text-pretty text-xl'> C C++  Core Java Adv Java  Spring  Springboot  Core Python  Flask Pandas Numpy Angular React & Basic DSA  & Probability and Statistics </h3>
              VsCode Netbeans Elicpse Intellij Android Studio Git & Github
             </p>
-            <button className='text-white  rounded-full bg-slate-600  text-xl hover:font-mono p-2 mx-4 text-center '><a href="https://www.linkedin.com/in/sandeepkr1506/"  target='_blank'>LinkedIn</a> </button>
+            <div className=" space-x-4 text-4xl py-4">
+            <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="text-gray-800  hover:text-blue-400">
+          <i class="fa-brands fa-linkedin"></i>
+              
+          </button>
+          <a href="https://www.instagram.com/sandeep_sharma8670/" className="text-gray-800 hover:hover:text-red-500">
+          <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="https://www.facebook.com/profile.php?id=100054210267040" className="text-gray-800 hover:hover:text-blue-400">
+          <i class="fa-brands fa-facebook"></i>
+          </a>
+
+            </div>
           </div>
         </div>
       </div>
