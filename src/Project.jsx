@@ -3,7 +3,7 @@ const Card=({ title, description, imageUrl ,projectUrl})=>{
  
 
   return (
-    <div className=" bg-cover bg-center h-auto  max-w-sm rounded overflow-hidden shadow-lg bg-white border-b-yellow-200">
+    <div className=" bg-cover bg-center h-screen  max-w-sm rounded overflow-hidden shadow-lg bg-white border-b-yellow-200">
       <img className="w-full h-auto" src={imageUrl} alt={title} />
       <div className="px-6 py-4 font-mono text-semibold ">
         <div className="font-bold text-xl mb-2">{title}</div>
