@@ -26,6 +26,10 @@ return (
           <a href="https://www.facebook.com/profile.php?id=100054210267040" className="text-gray-300 hover:text-white">
           <i class="fa-brands fa-facebook"></i>
           </a>
+          <a href="https://sandeepkumar24y7@gmail.com" className="text-gray-300 hover:text-white">
+          <i class="fa-solid fa-envelope"></i>
+          </a>
+          
         </div>
       </div>
     </footer>
