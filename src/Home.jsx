@@ -10,7 +10,7 @@ import mypicture from './assets/mypicture.jpg'
         
             
         
-        <div className=" bg-cover bg-center h-screen sm:py-4 bg-opacity-200" style={{ backgroundImage: `url(${keyboard})` }}>
+        <div className=" bg-cover bg-center h-screen sm:py-8 bg-opacity-200" style={{ backgroundImage: `url(${keyboard})` }}>
              <div className="container mx-auto px-12 ">
         <div className="md:flex items-center h-50 w-50">
           <div className="md:w-6/12 md:pr-8 mb-8 md:mb-0">
