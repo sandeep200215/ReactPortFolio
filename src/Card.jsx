@@ -43,7 +43,7 @@ const Card = () => {
             <img
               src={mypicture}
               alt="Profile"
-              className='w-full h-auto rounded-full mt-12 align-middle  p-2 '
+              className='w-full h-screen rounded-full mt-12 align-middle  p-2 '
             />
           </div>
           <div className="lg:w-fit  ml-8">
