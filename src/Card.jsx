@@ -61,7 +61,7 @@ const Card = () => {
             <h3 class='text-ellipsis text-pretty text-xl'> C C++  Core Java Adv Java  Spring  Springboot  Core Python  Flask Pandas Numpy Angular React & Basic DSA  & Probability and Statistics </h3>
              VsCode Netbeans Elicpse Intellij Android Studio Git & Github
             </p>
-            <div className=" space-x-4 text-4xl py-4">
+            <div className="  text-center space-x-4 text-4xl py-4">
             <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="text-gray-800  hover:text-blue-400">
           <i class="fa-brands fa-linkedin"></i>
               
