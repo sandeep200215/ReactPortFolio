@@ -1,11 +1,11 @@
 import mypicture from './assets/mypicture.jpg'
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function Contact()
 {
 return (
-    <footer className="bg-gray-800 align-bottom  sm:py-8">
+    <footer className="bg-gray-800 align-bottom  w-auto sm:py-8">
         <h2 className='text-white text-2xl text-center font-bold'>Reach Out Me</h2>
         <h3></h3>
       <div className="container   mx-auto flex justify-evenly px-4 font-semibold">
