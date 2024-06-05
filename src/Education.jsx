@@ -3,7 +3,7 @@ import React from 'react';
 
 const Education = () => {
   return (
-    <section className="bg-cover bg-center   py-8 sm:py-16 bg-gray-100 mt-8">
+    <section className="   py-8 sm:py-16 bg-gray-100 mt-8">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl sm:text-2xl font-bold text-center mb-8 ">Education Details</h2>
         <div className="overflow-x-auto">
