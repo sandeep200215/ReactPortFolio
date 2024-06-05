@@ -34,7 +34,7 @@ const Card = () => {
   }, []);
   return (
    
-    <section className="mx-auto  bg-cover bg-center h-screen ">
+    <section className="mx-auto ">
       <div className=" max-w-2xl mx-auto  bg-slate-100 p-2 ">
      
         <div className="flex flex-col lg:flex-row  ">
