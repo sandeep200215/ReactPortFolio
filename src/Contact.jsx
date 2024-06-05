@@ -1,4 +1,5 @@
 import mypicture from './assets/mypicture.jpg'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function Contact()

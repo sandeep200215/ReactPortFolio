@@ -1,5 +1,6 @@
 import React from "react";
 import Card from "./Card";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const About=()=>
 { 
