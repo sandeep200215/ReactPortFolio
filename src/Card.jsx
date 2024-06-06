@@ -61,15 +61,15 @@ const Card = () => {
             <h3 class='text-ellipsis text-pretty text-xl'> C C++  Core Java Adv Java  Spring  Springboot  Core Python  Flask Pandas Numpy Angular React & Basic DSA  & Probability and Statistics </h3>
              VsCode Netbeans Elicpse Intellij Android Studio Git & Github
             </p>
-            <div className="  text-center space-x-4 text-4xl py-4">
-            <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="text-gray-800  hover:text-blue-400">
+            <div className="  text-center space-x-4 text-2xl py-4">
+            <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
           <i class="fa-brands fa-linkedin"></i>
               
           </button>
-          <a href="https://www.instagram.com/sandeep_sharma8670/" className="text-gray-800 hover:hover:text-red-500">
+          <a href="https://www.instagram.com/sandeep_sharma8670/" className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 rounded-full p-1 px-2 hover:hover:text-red-300">
           <i class="fa-brands fa-instagram"></i>
           </a>
-          <a href="https://www.facebook.com/profile.php?id=100054210267040" className="text-gray-800 hover:hover:text-blue-400">
+          <a href="https://www.facebook.com/profile.php?id=100054210267040" className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-full p-1 px-2 hover:hover:text-blue-400">
           <i class="fa-brands fa-facebook"></i>
           </a>
 

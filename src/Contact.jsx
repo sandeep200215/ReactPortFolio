@@ -8,25 +8,25 @@ return (
   <footer className="bg-gray-800  pb-24">
        <h2 class="text-center  text-white pb-4 pt-4 text-2xl  font-mono font-semibold">Contact Me</h2>
       <div className="container mx-auto flex justify-center items-center ">
-        <div className="flex space-x-6 text-3xl mt-8">
-          <a href="https://www.linkedin.com/in/sandeepkr1506/" className="text-gray-300 hover:text-blue-500">
+        <div className="flex space-x-7 text-2xl mt-8">
+          <a href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-300">
           <i class="fa-brands fa-linkedin"></i>
               
           </a>
-          <a href="https://www.hackerrank.com/profile/coder1235" className="text-gray-300 hover:text-yellow-400">
+          <a href="https://www.hackerrank.com/profile/coder1235" className="bg-gradient-to-r from-[#2EC866] to-[#007A3E] p-1 rounded-full px-2 hover:text-yellow-300">
           <i class="fa-brands fa-hackerrank"></i>
            
           </a>
-          <a href="https://www.instagram.com/sandeep_sharma8670/" className="text-gray-300 hover:text-red-500">
+          <a href="https://www.instagram.com/sandeep_sharma8670/" className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 rounded-full p-1 px-2 hover:text-red-300">
           <i class="fa-brands fa-instagram"></i>
           </a>
-          <a href="https://telegram.me/sandeep_34ty" className="text-gray-300 hover:text-blue-600">
+          <a href="https://telegram.me/sandeep_34ty" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full  p-1 px-2 hover:text-blue-300">
           <i class="fa-brands fa-telegram"></i>
           </a>
-          <a href="https://www.facebook.com/profile.php?id=100054210267040" className="text-gray-300 hover:text-blue-600">
+          <a href="https://www.facebook.com/profile.php?id=100054210267040" className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-full p-1  px-2 hover:text-blue-300">
           <i class="fa-brands fa-facebook"></i>
           </a>
-          <a href="https://sandeepkumar24y7@gmail.com" className="text-gray-300 hover:text-gray-400">
+          <a href="https://sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
           
