@@ -8,7 +8,7 @@ return (
   <footer className="bg-gray-800  pb-24">
        <h2 class="text-center  text-white pb-4 pt-4 text-2xl  font-mono font-semibold">Contact Me</h2>
       <div className="container mx-auto flex justify-center items-center ">
-        <div className="flex space-x-7 text-2xl mt-8">
+        <div className="flex space-x-4 text-2xl mt-8">
           <a href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-300">
           <i class="fa-brands fa-linkedin"></i>
               
