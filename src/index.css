@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@keyframes flicker {
+    0% {
+      opacity: 1;
+      height: 24;
+      font-weight: 100;
+    }
+    50% {
+      opacity: 0.5;
+      height: 24;
+      font-weight: 100;
+    }
+    100% {
+      opacity: 1;
+      height: 24;
+      font-weight: 100;
+    }
+  }
+  
+  .animate-flicker {
+    animation: flicker 1s infinite;
+    height: 24;
+      font-weight: 100;
+  }
+  

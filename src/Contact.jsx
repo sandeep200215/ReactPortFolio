@@ -48,7 +48,7 @@ return (
           <i class="fa-solid fa-envelope"></i>
           </a>
           </div>
-          <div><p>All </p></div>
+        
     </footer>
 //     <footer className="bg-gray-800 align-bottom sm:py-12">
 //         <h2 className='text-white text-xl text-center font-bold'>Contact Me</h2>
