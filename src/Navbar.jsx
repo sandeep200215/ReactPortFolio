@@ -42,7 +42,7 @@ function Navbar() {
           <div className="mr-2 flex md:hidden ">
             <button
               onClick={toggleNavbar}
-              className="inline-flex items-center justify-center p-2 rounded-md mx-2 text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
+              className="inline-flex items-center justify-center p-2 rounded-md mx-3 text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
             >
               <svg
                 className="h-10 w-10"
