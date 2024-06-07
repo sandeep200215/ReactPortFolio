@@ -8,7 +8,7 @@ const Card=({ title, description, imageUrl ,projectUrl})=>{
       <div className="px-6 py-4 font-mono text-semibold ">
         <div className="font-bold text-xl mb-2">{title}</div>
         <p className="text-gray-700 text-base">{description}</p>
-        <a href={projectUrl} target='_blank' className=" text-blue-500 text-right items-end hover:text-slate-900">View Code</a>
+        <a href={projectUrl} target='_blank' className=" text-blue-500 text-right items-end hover:text-slate-900">View Code <span className=" text-black"><i class="fa-solid fa-arrow-right mr-4"></i><i class="fa-brands fa-github text-2xl"></i></span></a>
       </div>
     </div>
     )
