@@ -6,9 +6,9 @@ function Contact()
 {
 return (
   <footer className="bg-gray-800  pb-24">
-       <h2 class="text-center  text-white pb-4 pt-4 text-2xl  font-mono font-semibold">Contact Me</h2>
+       <h2 class="text-center  text-white pb-auto pt-auto text-auto  font-mono font-semibold">Contact Me</h2>
       <div className="container mx-auto flex justify-center items-center ">
-        <div className="flex space-x-2 text-2xl mt-8">
+        <div className="flex space-x-6 text-xl mt-4">
           <a href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-300">
           <i class="fa-brands fa-linkedin"></i>
               
@@ -17,21 +17,38 @@ return (
           <i class="fa-brands fa-hackerrank"></i>
            
           </a>
-          <a href="https://www.instagram.com/sandeep_sharma8670/" className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 rounded-full p-1 px-2 hover:text-red-300">
-          <i class="fa-brands fa-instagram"></i>
+          <a href="https://leetcode.com/u/sandeep1506/" target='_blank' className="   bg-gradient-to-b from-green-700 via-green-500 to-blue-500 rounded-full hover:text-gray-400">
+          <img src="      https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" className='h-8 w-8 hover:text-gray-400'/>
           </a>
+          
+          </div>
+          
+    
+        
+        <div>
+          
+        </div>
+      </div>
+      <span className='flex my-6  justify-center items-center text-xl space-x-6'>
           <a href="https://telegram.me/sandeep_34ty" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full  p-1 px-2 hover:text-blue-300">
           <i class="fa-brands fa-telegram"></i>
+        
           </a>
           <a href="https://www.facebook.com/profile.php?id=100054210267040" className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-full p-1  px-2 hover:text-blue-300">
           <i class="fa-brands fa-facebook"></i>
           </a>
+          <a href="https://www.instagram.com/sandeep_sharma8670/" className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 rounded-full p-1 px-2 hover:text-red-300">
+          <i class="fa-brands fa-instagram"></i>
+          </a>
+          
+          </span>
+          <div className='flex   justify-center items-center space-x-4'>
+            <p className='text-white '>Email or Message :- </p>
           <a href="https://sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
-          
-        </div>
-      </div>
+          </div>
+          <div><p>All </p></div>
     </footer>
 //     <footer className="bg-gray-800 align-bottom sm:py-12">
 //         <h2 className='text-white text-xl text-center font-bold'>Contact Me</h2>

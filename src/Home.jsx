@@ -17,11 +17,13 @@ import mypicture from './assets/mypicture.jpg'
             <img src={mypicture} alt="About Us" className="rounded-full w-auto md:w-50" />
           </div>
           <div className="md:w-3/4">
-            <h2 className="text-3xl  font-mono font-bold mb-4 text-white">Introduction</h2>
-            <p className="text-white font-mono  text-2xl">
-              Hi I am Sandeep And I am Pursuing MCA|I am aspiring of Java Developer or Software development
+            <h2 className="text-2xl  font-mono font-bold mb-1 text-white">Introduction</h2>
+            
+             <span className="text-white font-mono text-xl flex  ">Hi  <img  className="  mx-2 text-amber-500 space-x-3 bg-white rounded-full h-8 w-8" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFByJV2as_NLcIuu1wNAnHgSwe_W6hNRl-A&usqp=CAU" /> I'm Sandeep</span>
+              <p className="text-white font-mono  text-auto">
+                And I am Pursuing MCA|I am aspiring of Java Developer or Software development
             </p>
-            <div className="  space-x-4 text-3xl py-4">
+            <div className="  space-x-4 text-xl py-4">
             <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
           <i class="fa-brands fa-linkedin"></i>   
           </button>
