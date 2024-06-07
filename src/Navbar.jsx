@@ -45,7 +45,7 @@ function Navbar() {
               className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:bg-gray-700 focus:text-white"
             >
               <svg
-                className="h-6 w-6"
+                className="h-8 w-8"
                 stroke="currentColor"
                 fill="none"
                 viewBox="0 0 24 24"
@@ -73,7 +73,7 @@ function Navbar() {
 
       {isOpen && (
         <div className="md:hidden">
-          <div className="px-2 pt-2 pb-8 space-y-1 sm:px-3  ">
+          <div className="px-2 pt-2 pb-8 space-y-1 sm:px-4  ">
             <Link
               to="/"
               className="block text-gray-300 hover:underline px-2"
