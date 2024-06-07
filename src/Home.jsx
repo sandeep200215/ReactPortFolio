@@ -11,10 +11,10 @@ import mypicture from './assets/mypicture.jpg'
             
         
         <div className="     bg-cover bg-center h-screen sm:py-8 bg-opacity-200" style={{ backgroundImage: `url(${keyboard})` }}>
-             <div className="container mx-auto px-12 ">
+             <div className="container mx-auto px-12  ">
         <div className="md:flex items-center h-50 w-50">
           <div className="md:w-6/12 md:pr-8 mb-8 md:mb-0">
-            <img src={mypicture} alt="About Us" className="rounded-full w-auto md:w-50" />
+            <img src={mypicture} alt="About Us" className="rounded-full w-auto md:w-50 animate-float  " />
           </div>
           <div className="md:w-3/4">
             <h2 className="text-2xl  font-mono font-bold mb-1 text-white">Introduction</h2>
@@ -23,7 +23,7 @@ import mypicture from './assets/mypicture.jpg'
               <p className="text-white font-mono  text-xl animate-float animate-flicker">
                 And I am Pursuing MCA|I am aspiring of Java Developer or Software development
             </p>
-            <div className="  space-x-4 text-xl py-4">
+            <div className="  space-x-4 text-xl py-4   ">
             <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
           <i class="fa-brands fa-linkedin"></i>   
           </button>

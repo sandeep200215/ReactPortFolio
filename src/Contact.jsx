@@ -5,9 +5,9 @@ import mypicture from './assets/mypicture.jpg'
 function Contact()
 {
 return (
-  <footer className="bg-gray-800  pb-24">
-       <h2 class="text-center  text-white pb-auto pt-auto text-auto  font-mono font-semibold">Contact Me</h2>
-      <div className="container mx-auto flex justify-center items-center ">
+  <footer className="bg-gray-800  pb-24 ">
+       <h2 class="text-center  text-white pb-auto pt-auto text-xl  font-mono font-semibold ">Contact Me</h2>
+      <div className="container mx-auto flex justify-center items-center  ">
         <div className="flex space-x-6 text-xl mt-4">
           <a href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-300">
           <i class="fa-brands fa-linkedin"></i>
@@ -42,7 +42,7 @@ return (
           </a>
           
           </span>
-          <div className='flex   justify-center items-center space-x-4'>
+          <div className='flex   justify-center items-center space-x-4 '>
             <p className='text-white '>Email or Message :- </p>
           <a href="https://sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
