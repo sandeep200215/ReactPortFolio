@@ -58,8 +58,34 @@ const Card = () => {
             
            
             <h2 className=' text-slate-950 font-serif  font-semibold'>Technical Skills & Tools</h2>
-            <h3 class='text-ellipsis text-pretty text-xl'> C C++  Core Java Adv Java  Spring  Springboot  Core Python  Flask Pandas Numpy Angular React & Basic DSA  & Probability and Statistics </h3>
-             VsCode Netbeans Elicpse Intellij Android Studio Git & Github
+            {/* <h3 class='text-ellipsis text-pretty text-xl'> C C++  Core Java Adv Java  Spring  Springboot  Core Python  Flask Pandas Numpy Angular React & Basic DSA  & Probability and Statistics </h3>
+             VsCode Netbeans Elicpse Intellij Android Studio Git & Github */}
+             <div className=''>
+              <ul className='flex space-x-2  '>
+                <li className='border-2  w-8 text-center rounded-lg text-white  bg-gray-500 px-0.5 '>C</li>
+                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>C++</li>
+                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>Java</li>
+                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>Python</li>
+              </ul>
+              <ul className='flex space-x-2 mt-2'>
+                <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>HTML</li>
+                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>CSS</li>
+                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>JS</li>
+                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>React</li>
+              </ul>
+              <ul className='flex space-x-2 mt-2'>
+                <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>Spring</li>
+                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>Springboot</li>
+              </ul>
+              <ul className='flex space-x-2 mt-2'>
+                <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>VsCode</li>
+                <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>Git</li>
+                <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>Github</li>
+              </ul>
+              <ul className='flex space-x-2 mt-2'>
+                <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>Android Studio</li>
+              </ul>
+             </div>
             </p>
             <div className="space-x-4 text-2xl py-4">
             <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
