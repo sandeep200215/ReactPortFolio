@@ -98,7 +98,7 @@ const Card = () => {
           <i class="fa-brands fa-linkedin"></i>
               
           </button>
-          <a href="https://sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
+          <a href="mailto:sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
           <a href="https://www.instagram.com/sandeep_sharma8670/" className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 rounded-full p-1 px-2 hover:hover:text-red-300">
