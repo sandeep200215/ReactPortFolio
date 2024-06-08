@@ -2,6 +2,7 @@ import mypicture from './assets/mypicture.jpg'
 
 
 
+
 function Contact()
 {
 return (
@@ -44,7 +45,7 @@ return (
           </span>
           <div className='flex   justify-center items-center space-x-4 '>
             <p className='text-white '>Drop Mail Me :- </p>
-          <a href="https://sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
+          <a href="mailto:sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
           </div>
