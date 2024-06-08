@@ -60,11 +60,11 @@ const Card = () => {
             <h2 className=' text-slate-950 font-serif  font-semibold'>Technical Skills & Tools</h2>
             {/* <h3 class='text-ellipsis text-pretty text-xl'> C C++  Core Java Adv Java  Spring  Springboot  Core Python  Flask Pandas Numpy Angular React & Basic DSA  & Probability and Statistics </h3>
              VsCode Netbeans Elicpse Intellij Android Studio Git & Github */}
-             <div className=''>
-              <ul className='flex space-x-2  '>
-                <li className='border-2  w-8 text-center rounded-lg text-white  bg-gray-500 px-0.5 '>C</li>
-                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>C++</li>
-                <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>Java</li>
+             <div className=' font-mono'>
+              <ul className='flex space-x-2   '>
+                <li className='border-2  w-8 text-center rounded-lg bg-gray-500 text-gray-300 px-0.5 '>C</li>
+                <li className='border-2  w-auto rounded-lg text-center bg-gray-500 text-gray-300 px-0.5'>C++</li>
+                <li className='border-2  w-auto rounded-lg text-center bg-gray-500 text-gray-300 px-0.5'>Java</li>
                 <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>Python</li>
               </ul>
               <ul className='flex space-x-2 mt-2'>
@@ -74,6 +74,7 @@ const Card = () => {
                 <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>React</li>
               </ul>
               <ul className='flex space-x-2 mt-2'>
+              
                 <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>Spring</li>
                 <li className='border-2  w-auto rounded-lg text-center text-white  bg-gray-500 px-0.5'>Springboot</li>
               </ul>
@@ -83,7 +84,12 @@ const Card = () => {
                 <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>Github</li>
               </ul>
               <ul className='flex space-x-2 mt-2'>
-                <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>Android Studio</li>
+                <li className='border-2  w-auto rounded-lg bg-gray-500  text-gray-300 px-0.5 '>Android Studio</li>
+                
+              </ul>
+              <ul className='flex space-x-2 mt-2'>
+              <li className='border-2  w-auto rounded-lg  text-white  bg-gray-500 px-0.5 '>SQL</li>
+                <li className='border-2  w-auto rounded-lg  text-white bg-gray-500  px-0.5 '> Basic DSA </li>
               </ul>
              </div>
             </p>
