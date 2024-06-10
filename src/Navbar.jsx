@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import  Resume from './assets/Resume.pdf'
+import  Resume from './assets/sandeepResume.pdf'
 
 
 function Navbar() {
