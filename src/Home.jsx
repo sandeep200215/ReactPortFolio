@@ -24,9 +24,9 @@ import mypicture from './assets/mypicture.jpg'
                 And I am Pursuing MCA|I am aspiring of Java Developer or Software development
             </p>
             <div className="  space-x-4 text-xl py-4   ">
-            <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
+            <a  href="https://www.linkedin.com/in/sandeepkr1506/"  target='_blank' className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
           <i class="fa-brands fa-linkedin"></i>   
-          </button>
+          </a>
           <a href="mailto:sandeepkumar24y7@gmail.com" target='_blank' className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
