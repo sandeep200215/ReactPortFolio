@@ -94,17 +94,17 @@ const Card = () => {
              </div>
             </p>
             <div className="space-x-4 text-2xl py-4">
-            <button  href="https://www.linkedin.com/in/sandeepkr1506/" className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
+            <a href="https://www.linkedin.com/in/sandeepkr1506/" target="_blank"  className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">
           <i class="fa-brands fa-linkedin"></i>
               
-          </button>
-          <a href="mailto:sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
+          </a>
+          <a href="mailto:sandeepkumar24y7@gmail.com" target="_blank" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
-          <a href="https://www.instagram.com/sandeep_sharma8670/" className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 rounded-full p-1 px-2 hover:hover:text-red-300">
+          <a href="https://www.instagram.com/sandeep_sharma8670/" target="_blank" className="bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 rounded-full p-1 px-2 hover:hover:text-red-300">
           <i class="fa-brands fa-instagram"></i>
           </a>
-          <a href="https://www.facebook.com/profile.php?id=100054210267040" className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-full p-1 px-2 hover:hover:text-blue-400">
+          <a href="https://www.facebook.com/profile.php?id=100054210267040" target="_blank" className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-full p-1 px-2 hover:hover:text-blue-400">
           <i class="fa-brands fa-facebook"></i>
           </a>
 
