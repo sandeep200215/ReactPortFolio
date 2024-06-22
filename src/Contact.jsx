@@ -6,7 +6,7 @@ import mypicture from './assets/mypicture.jpg'
 function Contact()
 {
 return (
-  <footer className="bg-gray-800  pb-24  ">
+  <footer className="bg-gray-800  pb-24   ">
        <h2 class="text-center  text-white pb-auto pt-auto text-xl  font-mono font-semibold ">Contact Me</h2>
       <div className="container mx-auto flex justify-center items-center  ">
         <div className="flex space-x-6 text-xl mt-4">
@@ -48,6 +48,10 @@ return (
           <a href="mailto:sandeepkumar24y7@gmail.com" className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
+          </div>
+          <div>
+            <div></div>
+            <p className='text-white text-center mt-8 '>copyright made with heart by Sandeep</p>
           </div>
         
     </footer>
