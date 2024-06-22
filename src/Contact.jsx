@@ -30,7 +30,7 @@ return (
           
         </div>
       </div>
-      <span className='flex my-6  justify-center items-center text-xl space-x-6'>
+      <span className='flex my-6 justify-center items-center text-xl space-x-6'>
           <a href="https://telegram.me/sandeep_34ty" target='_blank' className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full  p-1 px-2 hover:text-blue-300">
           <i class="fa-brands fa-telegram"></i>
         
@@ -48,10 +48,6 @@ return (
           <a href="mailto:sandeepkumar24y7@gmail.com" target='_blank' className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-full p-1 px-2 hover:text-gray-400">
           <i class="fa-solid fa-envelope"></i>
           </a>
-          </div>
-          <div>
-            <div></div>
-            <p className='text-white text-center mt-8 '>copyright made with heart by Sandeep</p>
           </div>
         
     </footer>
