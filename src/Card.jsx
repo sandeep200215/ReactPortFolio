@@ -53,8 +53,7 @@ const Card = () => {
             I am <span className="font-semibold  " ref={el}></span>
           </h2>
             <p className="text-xl font-mono  text-slate-900">
-            Hi ,I am Sandeep and pursuing Online MCA From Manipal University Jaipur.I am fashionated to programming and always try to develop aplication using different tech stack.I am interested to learn new technology.<br></br> 
-            As well as I am  working as a <span className='text-slate-700'>computer instructor</span>  at Daffodil Public School  Biharsharif Nalanda.<br></br><br></br>
+            Hi ,I am Sandeep and PGT COmputer Science at Holy Mission Patna. I am interested to make  career in Research field  <span className='text-slate-700'></span> 
             
            
             <h2 className=' text-slate-950 font-serif  font-semibold'>Technical Skills & Tools</h2>
