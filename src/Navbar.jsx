@@ -96,7 +96,7 @@ function Navbar() {
               Services
             </Link>
           
-            <a href={Resume1} target='_blank' className="bg-gray-600 rounded-full text-gray-300 hover:visited:bg-gray-500 mt-4 p-2 mx-1">
+            <a href={Resume} target='_blank' className="bg-gray-600 rounded-full text-gray-300 hover:visited:bg-gray-500 mt-4 p-2 mx-1">
                Resume
               </a>
           </div>
