@@ -21,7 +21,7 @@ import mypicture from './assets/mypicture.jpg'
             
              <span className="text-white font-mono text-xl flex  animate-float  animate-flicker  ">Hi  <img  className="  mx-2 text-amber-500 space-x-3 bg-white rounded-full h-8 w-8" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFByJV2as_NLcIuu1wNAnHgSwe_W6hNRl-A&usqp=CAU" /> I'm Sandeep</span>
               <p className="text-white font-mono  text-xl animate-float animate-flicker  ">
-                And I am PGT Computer Science at Holy Mission Patna.
+                And I am PGT Computer Science at Holy Mission School Patna.
             </p>
             <div className="  space-x-4 text-xl py-4   ">
             <a  href="https://www.linkedin.com/in/sandeepkr1506/"  target='_blank' className="bg-gradient-to-r from-[#0077B5] to-[#005E94] rounded-full p-1 px-2 hover:text-blue-400">

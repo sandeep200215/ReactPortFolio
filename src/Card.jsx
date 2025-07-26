@@ -53,7 +53,7 @@ const Card = () => {
             I am <span className="font-semibold  " ref={el}></span>
           </h2>
             <p className="text-xl font-mono  text-slate-900">
-            Hi ,I am Sandeep and PGT COmputer Science at Holy Mission Patna. I am excited to make  career in Research  <span className='text-slate-700'></span> 
+            Hi ,I am Sandeep and PGT COmputer Science at Holy Mission School Patna. I am excited to make  career in Research  <span className='text-slate-700'></span> 
             
            
             <h2 className=' text-slate-950 font-serif  font-semibold'>Technical Skills & Tools</h2>
